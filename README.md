@@ -2,7 +2,6 @@
 -----------------------------------------------------
 21600567 이하림, 22000176 김지민, 22100421 심다영
 
-프로젝트 작업 파일
 
   * PPT link: https://docs.google.com/presentation/d/1KxZUlsZDkLyB30hTV94JR0sZ-IgKH2ufifHNwsD07fg/edit#slide=id.g1316fd9f974_0_9
 
